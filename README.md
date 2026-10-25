@@ -192,11 +192,11 @@ The Power BI solution is structured into two main analytical views:
 
 *(Place your exported Power BI screenshots in an `assets/` or `images/` folder in your repo)*
 
-| Dashboard View 1: Proportions & Monthly Totals |
-| :---: | :---: |
+
+| Dashboard View 1: Executive Variance Analysis |
 <img width="1326" height="741" alt="Screenshot 2026-10-16 130133" src="https://github.com/user-attachments/assets/25ccb15c-94ab-41ba-a5b3-221000cb8179" /> 
 
-| Dashboard View 2: Executive Variance Analysis |
+| Dashboard View 2: Proportions & Monthly Totals |
 <img width="1322" height="742" alt="Screenshot 2026-10-16 130158" src="https://github.com/user-attachments/assets/dc159287-e2c6-42c7-be37-7d8e6fed9ded" />
 
 | Raw Data Structure | Cleaned Data & Calculated Columns |
