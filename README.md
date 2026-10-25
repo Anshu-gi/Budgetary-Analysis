@@ -217,7 +217,7 @@ The Power BI solution is structured into two main analytical views:
 1. **Overall Fiscal Health (Under Budget)**:
    -Figuratively **$44020** have been saved from the overall budget of **$1762200**, if we compare budget with actual expenses of **$1718180**, we can visually conclude that the actual expenses were well aligned and within the budget but if look at the the monthly allocations and variations, there are points that are needed to be considered.
    
-2.**Development Costs**:
+2. **Development Costs**:
    -Yearly budget was around **$134200** where as actual expenses were around **$1341365** making a variance of around **2%** which is well versed with the allotted budget, with a slight positive variation. 
    
 3. **Operational Overrun Alert**:
