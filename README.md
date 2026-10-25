@@ -215,15 +215,24 @@ The Power BI solution is structured into two main analytical views:
 ## 💡 Business Insights & Financial Findings
 
 1. **Overall Fiscal Health (Under Budget)**:
-   - The company completed FY23 with a **favorable net savings of \$44,020** (~2.5% below total allocated budget of \$1.76M).
-2. **Operational Overrun Alert**:
-   - `Operational Costs` exceeded their budget by **\$9,191 (+5.57%)**, reaching \$174,191. Facility and operational workflows should be reviewed to curb recurring creep.
-3. **Training & Marketing Under-utilization**:
-   - `Training Cost` had the largest single category underspend (**-\$16,500 / -19.19%**), which explains **45.12%** of total expense variance. In March 2023, zero training was recorded against a \$6,000 budget.
-   - `Marketing Costs` came in **\$6,924 below budget**, suggesting opportunities to either reallocate funds into growth campaigns or right-size future marketing allocations.
-4. **Seasonal Spending Dynamics**:
-   - Spending was highest during Q4 (Nov & Dec exceeded \$151,000/month), while **July experienced the steepest savings delta** (actual spend \$133,733 vs. \$149,000 budget).
-
+   -Figuratively **$44020** have been saved from the overall budget of **$1762200**, if we compare budget with actual expenses of **$1718180**, we can visually conclude that the actual expenses were well aligned and within the budget but if look at the the monthly allocations and variations, there are points that are needed to be considered.
+   
+2.**Development Costs**:
+   -Yearly budget was around **$134200** where as actual expenses were around **$1341365** making a variance of around **2%** which is well versed with the allotted budget, with a slight positive variation. 
+   
+3. **Operational Overrun Alert**:
+    -Total yearly budget allocated for operational costs was **$16500** but actual expenses exceeded by a difference of **-9082** i.e. actual expenses were **$174082** that leads to a variance of **-6%**. which makes efficient allocation of budget considerable for operational costs.
+   
+4. **Training, Travelling & Marketing (Under-utilization)**:
+   -Budgeted costs for Marketing, Training and Travelling expenses were heavily under utilized reportedly having a variance that went up to **21%** for Training Costs which makes the allocation of budget highly considerable, For the following Expenses the difference and variance between actual and allocated budget were as follows:
+   Marketing Costs Budgeted=**$75000**, Actual=**$5824** yearly, making a variance of **7%**
+   Training Costs Budgeted=**$86000**, Actual=**$68000** yearly, variance = **21%**
+   Travelling Costs Budgeted=**$48000**, Actual=**$41300** yearly making a variance of **14%**
+   whereas allocation of maintenance costs suffered a variance of **-5%** when actual expenses exceeded the budget with **-$2487** second to operational costs which was budgeted around **$48000** for the year but actual expenses reached up to **$50487**.
+    
+5. **Overall Spending Dynamics**:
+   -For further analysis monthly difference between budgeted and actual costs have been calculated as per monthly basis, so that the allocations can be reviewed as per monthly variations.
+-As for monthly variances we can see that for the months of **July and November** the variance steep was on the two extremes one lowest and other highest for the month of July the variance shot up to a positive **10.5%** indicating high under utilization of budgets where as for the month of November the variance was at the lowest extreme a negative **-0.10%** variance FY23, Hence to conclude the yearly budget might indicate a considerable saving for the year but efficient and detailed  allocation is still crucial.
 ---
 
 ## 📂 Project Directory Structure
