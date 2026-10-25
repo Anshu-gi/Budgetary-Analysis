@@ -221,7 +221,7 @@ The Power BI solution is structured into two main analytical views:
    -Yearly budget was around **$134200** where as actual expenses were around **$1341365** making a variance of around **2%** which is well versed with the allotted budget, with a slight positive variation. 
    
 3. **Operational Overrun Alert**:
-    -Total yearly budget allocated for operational costs was **$16500** but actual expenses exceeded by a difference of **-9082** i.e. actual expenses were **$174082** that leads to a variance of **-6%**. which makes efficient allocation of budget considerable for operational costs.
+    -Total yearly budget allocated for operational costs was **$165000** but actual expenses exceeded by a difference of **-9082** i.e. actual expenses were **$174082** that leads to a variance of **-6%**. which makes efficient allocation of budget considerable for operational costs.
    
 4. **Training, Travelling & Marketing (Under-utilization)**:
    -Budgeted costs for Marketing, Training and Travelling expenses were heavily under utilized reportedly having a variance that went up to **21%** for Training Costs which makes the allocation of budget highly considerable, For the following Expenses the difference and variance between actual and allocated budget were as follows:
